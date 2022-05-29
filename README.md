@@ -26,6 +26,4 @@
 -   React.js
 -   Node.js
 
-## Features
 
--   [x] Users can create new notes
