@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hospital_portal_frontend/static/css/main.f4179969.css",
+    "main.js": "/hospital_portal_frontend/static/js/main.d6f03238.js",
+    "index.html": "/hospital_portal_frontend/index.html",
+    "main.f4179969.css.map": "/hospital_portal_frontend/static/css/main.f4179969.css.map",
+    "main.d6f03238.js.map": "/hospital_portal_frontend/static/js/main.d6f03238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4179969.css",
+    "static/js/main.d6f03238.js"
+  ]
+}
